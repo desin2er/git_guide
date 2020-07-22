@@ -10,4 +10,3 @@
      - git commit -m "내용"
      - git push
 5. 확인한다.
-6. test
