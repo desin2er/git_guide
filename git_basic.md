@@ -9,4 +9,3 @@
      - git add .
      - git commit -m "내용"
      - git push
-5. 확인
