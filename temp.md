@@ -22,6 +22,7 @@ git commit -m "message.."
 git push orgin master
 
 100MB 에러 로그 제거
+git repack && git gc
 java -jar bfg-x.xx.xx.jar --strip-blobs-bigger-than 100M RepositoryName.git
 * xx 다운로드 받은 버전 입력
 ```
