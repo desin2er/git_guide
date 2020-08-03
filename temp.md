@@ -1,4 +1,4 @@
-## 기본 명령어
+## 0. 기본 명령어
 ```bash
 <master>
 $ git clone "clone_path"
